@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #EEE;
+    font-family: sans-serif;
+}
+.container{
+    max-width: 100%;
+    background-color: #E4F9F5;
+    margin: 0px 180px;
+    padding: 20px;
+}
+header{
+
+
+}
+.profile-image{
+    width: 100px;
+    height: 120px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: left;
+}
+.header-bio{
+    float: left;
+    padding: 30px;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #11999e;
+}
+.header-contract{
+    float: right;
+    padding: 30px;
+}
+.header-contract a{
+    text-decoration: none;
+    font-weight: bold;
+    color: teal;
+}
+.header-contract a:hover{
+    text-decoration: underline;
+    color: tomato;
+}
+.div-clear{
+    clear: both;
+}
+hr{
+    border: 3px solid black;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto ;
+}
+main{
+
+}
+.personal-section{
+
+}
+.containt{
+
+}
+.left-div{
+    float: left;
+    width: 30%;
+}
+.right-div{
+    float: left;
+    width: 70%;
+}
+.common-hr{
+    border: 1px solid black;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+.diploma{
+    width: 50%;
+    float: left;
+}
+
+.bsc{
+    float: left;
+    width: 50%;
+}
+.div2,.div3{
+    margin-top: 20px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px;
+}
+p{
+    margin-top: 10px;
+}
+.d{
+    width: 500px;
+    height:50px;
+    background-color: rgb(0, 0, 0,0.3);
+    margin: 0 auto;
+}
+input{
+    margin: 20px 150px;
+    background: transparent;
+    outline: none;
+}
